@@ -27,6 +27,8 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
+
+    //testing comments for commits
 }
 
 @Composable
